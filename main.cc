@@ -8,9 +8,6 @@
 #include <sys/types.h>
 #include <dirent.h>
 #include <typeinfo>
-#include <libxml/encoding.h>
-#include <libxml/xmlwriter.h>
-#include <libxml/xmlreader.h>
 
 using namespace std;
 

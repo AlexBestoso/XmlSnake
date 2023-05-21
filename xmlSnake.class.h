@@ -1,3 +1,7 @@
+#include <libxml/encoding.h>
+#include <libxml/xmlwriter.h>
+#include <libxml/xmlreader.h>
+
 struct XmlSnakeReader{
 	int depth = -1;
 	int nodeType = -1;
